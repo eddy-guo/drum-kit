@@ -12,5 +12,5 @@ On pageload, the website should look identical to the image above.
 
 ## Acknowledgements
 
-- audio files ( https://github.com/wesbos/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit/sounds ) for various drum kit sounds
-- JavaScript30 ( https://github.com/wesbos/JavaScript30 ) for implementation tutorial
+- audio files ( https://github.com/wesbos/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit/sounds ) for various drum kit sounds.
+- JavaScript30 ( https://github.com/wesbos/JavaScript30 ) for implementation tutorial.
