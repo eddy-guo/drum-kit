@@ -12,4 +12,4 @@ On pageload, the website should look identical to the image above.
 
 ## Acknowledgements
 
-- sound files ( https://github.com/wesbos/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit/sounds ) for drum kit sounds
+- audio files ( https://github.com/wesbos/JavaScript30/tree/master/01%20-%20JavaScript%20Drum%20Kit/sounds ) for drum kit sounds
