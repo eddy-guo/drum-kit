@@ -16,7 +16,7 @@ A --> Clap
 
 S --> Hi Hat
 
-D --> Kick
+D --> Kick Drum
 
 F --> Open (Hi) Hat
 
@@ -24,7 +24,7 @@ G --> Boom
 
 H --> Ride Cymbal
 
-J --> Snare
+J --> Snare Drum
 
 K --> Tom
 
