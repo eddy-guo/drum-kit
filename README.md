@@ -9,17 +9,26 @@ Visit the deployed site here: https://jsdrumkit.vercel.app/
 ## Getting Started
 
 On pageload, the website should look identical to the image above. The letters in the middle row of your keyboard (A, S, D, F, G, H, J, K, or L) correspond to a different drum kit sound, including clap, hi-hat, snare, and many more. 
-Press any of those keys to get started!
-A --> Clap
-S --> Hi Hat
-D --> Kick
-F --> Open (Hi) Hat
-G --> Boom
-H --> Ride Cymbal
-J --> Snare
-K --> Tom
-L --> Tink
 
+Press any of those keys to get started!
+
+A --> Clap
+
+S --> Hi Hat
+
+D --> Kick
+
+F --> Open (Hi) Hat
+
+G --> Boom
+
+H --> Ride Cymbal
+
+J --> Snare
+
+K --> Tom
+
+L --> Tink
 
 ## Acknowledgements
 
